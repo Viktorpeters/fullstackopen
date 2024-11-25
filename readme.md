@@ -1,11 +1,6 @@
-the main folder contains solution to the first assignment.
+pull into your local machine
+go to the terminal and run the command "npm install"
+these helps you install alll needed packages
 
-pull the code into your local machine 
-
-start the server with npm start , from the command line
-
-open up post man or its equivalent
-
-and begin to test the api's
-
-happy hacking
+once done, then run the server with npm run start.
+use thunder client, or postman or any other equivalents to test the Rest APi's
